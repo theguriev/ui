@@ -1,6 +1,6 @@
 {
   "name": "nxt-ui",
-  "version": "2.10.0",
+  "version": "2.10.0-without-colors",
   "repository": "nuxt/ui",
   "homepage": "https://ui.nuxt.com",
   "license": "MIT",

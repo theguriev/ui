@@ -123,7 +123,7 @@ importers:
 
   docs:
     dependencies:
-      nuxt-ui-custom:
+      nxt-ui:
         specifier: workspace:latest
         version: link:..
     devDependencies:
